@@ -6,12 +6,12 @@ Using **Azure Data Lake Storage** and **Snowflake**, the pipeline consolidates, 
 ---
 
 ## Table of Contents
-1. [📂 Project Overview](#project-overview)  
-2. [📊 Data Pipeline Architecture](#data-pipeline-architecture)  
-3. [🗃️ Dataset Details](#dataset-details)  
-4. [🛠️ Data Pipeline Layers](#data-pipeline-layers)  
-5. [🧰 Tools & Technologies](#tools--technologies)  
-6. [🔮 Future Work](#future-work)  
+1. [📂 Project Overview](#-project-overview)  
+2. [📊 Data Pipeline Architecture](#-data-pipeline-architecture)  
+3. [🗃️ Dataset Details](#-dataset-details)  
+4. [🛠️ Data Pipeline Layers](#-data-pipeline-layers)  
+5. [🧰 Tools & Technologies](#-tools--technologies)  
+6. [🔮 Future Work](#-future-work)  
 
 ---
 
