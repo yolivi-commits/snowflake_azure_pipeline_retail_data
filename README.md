@@ -8,7 +8,7 @@ Using **Azure Data Lake Storage** and **Snowflake**, the pipeline consolidates, 
 ## Table of Contents
 1. [🌐 Visual Overview of Key Configurations](#-visual-overview-of-key-configurations)  
 2. [📂 Project Overview](#-project-overview)  
-3. [📊 Data Pipeline Architecture](#-data-pipeline-architecture)  
+3. [📊 Data Pipeline Architecture Diagram](#-data-pipeline-architecture-diagram)  
 4. [🗃️ Dataset Details](#-dataset-details)  
 5. [🛠️ Data Pipeline Layers](#-data-pipeline-layers)  
 6. [🧰 Tools & Technologies](#-tools--technologies)  
@@ -35,7 +35,7 @@ The pipeline uses **Azure Data Lake Storage** for raw data storage and **Snowfla
 
 ---
 
-## 📊 Data Pipeline Architecture
+## 📊 Data Pipeline Architecture Diagram
 
 Below is a visual representation of the **end-to-end Snowflake-based data pipeline** for this project:
 
