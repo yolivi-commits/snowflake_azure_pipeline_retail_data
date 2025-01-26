@@ -1,0 +1,14 @@
+# Ignore environment files
+.env
+.DS_Store
+
+# Ignore intermediate files
+*.csv
+*.json
+*.parquet
+
+# Ignore any local workspace files
+*.bak
+*.tmp
+
+
