@@ -2,10 +2,7 @@
 .env
 .DS_Store
 
-# Ignore intermediate files
-*.csv
-*.json
-*.parquet
+.vscode
 
 # Ignore any local workspace files
 *.bak
