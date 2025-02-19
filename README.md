@@ -16,7 +16,7 @@ Using **Azure Data Lake Storage** and **Snowflake**, the pipeline consolidates, 
 
 
 ---
-## 🌐 Visual Overview of Key Configurations
+##  Visual Overview of Key Configurations
 ### Snowflake WorkSheets
 ![Snowflake Worksheets](snowflake_screenshot_worksheets.png)
 ### Azure Data Lake Storage
@@ -24,7 +24,7 @@ Using **Azure Data Lake Storage** and **Snowflake**, the pipeline consolidates, 
 
 ---
 
-## 📂 Project Overview
+##  Project Overview
 
 This project addresses common e-commerce challenges:
 - **Data Silos**: Consolidates data into Snowflake.
@@ -35,7 +35,7 @@ The pipeline uses **Azure Data Lake Storage** for raw data storage and **Snowfla
 
 ---
 
-## 📊 Data Pipeline Architecture Diagram
+##  Data Pipeline Architecture Diagram
 
 Below is a visual representation of the **end-to-end Snowflake-based data pipeline** for this project:
 
@@ -44,7 +44,7 @@ Below is a visual representation of the **end-to-end Snowflake-based data pipeli
 
 ---
 
-## 🗃️ Dataset Details
+##  Dataset Details
 
 **Data Sources**:
 1. **Customer Data**: Daily CSV exports from the Customer Relationship Management system.
@@ -53,7 +53,7 @@ Below is a visual representation of the **end-to-end Snowflake-based data pipeli
 
 ---
 
-## 🛠️ Data Pipeline Layers
+##  Data Pipeline Layers
 
 ### **Bronze Layer**
 - **Purpose**: Raw data storage.
@@ -69,7 +69,7 @@ Below is a visual representation of the **end-to-end Snowflake-based data pipeli
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - **Azure Data Lake Storage**: Centralized raw data storage.
 - **Snowflake**:
@@ -80,7 +80,7 @@ Below is a visual representation of the **end-to-end Snowflake-based data pipeli
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 - **Advanced Analytics**: Incorporate machine learning for personalized marketing.
 - **Orchestration**: Use tools like Apache Airflow to automate workflows.
